@@ -32,7 +32,10 @@ This project was created to practice:
 
 ##Screenshot
 
-![Main UI](screenshots/main.png)
+![page](screenshots/page.png)
+![ui-ux](screenshots/ui-ux.png)
+![main](screenshots/use.png)
+
 
 ##What I Learned
 
